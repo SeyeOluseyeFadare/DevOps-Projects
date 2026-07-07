@@ -1,4 +1,4 @@
-#  **Real-World DevOps/Cloud Projects For Learning from Beginner to Advanced Asake   ** ♐
+#  **Real-World DevOps/Cloud Projects For Learning from Beginner to Advanced Asake       ** ♐
 
 <p align="center">
   <a href="https://trendshift.io/repositories/13316" target="_blank" rel="noopener noreferrer">
